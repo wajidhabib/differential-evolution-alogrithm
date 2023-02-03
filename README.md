@@ -17,4 +17,4 @@ The basic structure of differential evolution can be summed up below:
             go back to step #3
 ```
 
-[1] https://en.wikipedia.org/wiki/Differential_evolution
+[^1]:  https://en.wikipedia.org/wiki/Differential_evolution
