@@ -17,4 +17,8 @@ The basic structure of differential evolution can be summed up below:
             go back to step #3
 ```
 
+![image](https://user-images.githubusercontent.com/43421608/220276093-8ac625c4-9d00-4df6-8177-2e6431a240c9.png)
+
+
+
 [^1]:  https://en.wikipedia.org/wiki/Differential_evolution
